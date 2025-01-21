@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "Smartphone Motorola Edge 50 Fusion",
+            "price": 23999,
+            "image_url": "https:\/\/rukminim2.flixcart.com\/image\/832\/832\/xif0q\/mobile\/g\/w\/r\/edge-50-fusion-pb300000in-motorola-original-imahywzztyktktpp.jpeg?q=70&crop=false",
+            "id": 1
+        },
+        {
+            "id": "3",
+            "name": "ASUS ROG Zephyrus G16 (2024) ",
+            "price": 249990,
+            "image_url": "https:\/\/rukminim2.flixcart.com\/image\/832\/832\/xif0q\/computer\/a\/c\/u\/-original-imah445ghnrhpzmg.jpeg?q=70&crop=false"
+        }
+    ]
+}
