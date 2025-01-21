@@ -36,7 +36,7 @@ The *Product Management System* is an efficient web application for managing pro
 #### *Installation Instructions*  
 1. Clone the repository:  
    bash
-   git clone <repository-url>
+   git clone https://github.com/Unknownadmin45/Product_Management_System
      
 2. Set up a local server (e.g., XAMPP).  
 3. Create an empty products.json file in the project directory:  
